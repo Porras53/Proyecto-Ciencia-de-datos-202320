@@ -22,7 +22,7 @@ Entrega 2:
 
 Por temas relacionados con la confidencialidad de la información, no se cargan los datos fuente. 
 
-Entrega 2:
+Entrega 3:
 
   1. En la carpeta Notebooks última entrega: Encontramos tanto los datos que se añadieron de los vuelos como la creación y exportación del modelo de regresión escogido con estos nuevos datos.
   2. Proyecto Entrega 3 (Final) Ciencia de datos 202320.pdf: En él se encuentra el documento correspondiente a la última entrega de este proyecto explicando cada uno de los entregables. Este se encuentra en la carpeta llamada Reportes y presentaciones
